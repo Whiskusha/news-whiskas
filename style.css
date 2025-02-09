@@ -25,6 +25,39 @@ body{
 .lol{
      width: 200px;
 }
-.pokypka{
-     text-align: center;
+.block{
+    padding: 30px;
+    margin: 23px;
+    border: solid 3px rgb(11, 158, 11);
+    border-radius: 4px;
+    text-align: center;
+    background-color: rgb(143, 230, 117);
+}
+main a{
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+}
+.kontakt{
+    text-align: center;
+    font-family:Arial;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    font-size: 110%;
+    font-family: sans-serif;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+footer{
+    border: solid 3px;
+    padding: 8px;
+    margin: 6px;
+    border-radius: 15px;
+    background-color: rgb(143, 230, 117);
+    border-color: rgb(11, 158, 11);
 }
