@@ -1,0 +1,29 @@
+.kartinki{
+    width: 80px;
+}
+header{
+    border: solid 2px;
+    padding: 8px;
+    margin: 6px;
+    border-radius: 15px;
+    background-color: rgb(143, 230, 117);
+    border-color: rgb(11, 158, 11)
+}
+body{
+    font-family: sans-serif;
+}
+.knopki{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+.pipe{
+    color: rgb(143, 230, 117);
+}
+.sagolovki{
+    text-align: center;
+}
+main img{
+    width: 300px;
+    margin: 45px;
+}
